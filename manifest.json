@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "LINE UP",
+  "short_name": "LINE UP",
+  "description": "조기축구 라인업 메이커 — 팀을 만들고, 참석자만 고르면 쿼터별 라인업이 자동으로.",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "categories": ["sports", "utilities"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
