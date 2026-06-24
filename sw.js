@@ -1,5 +1,5 @@
 /* LINE UP 서비스워커 — 오프라인 지원(앱 셸 캐시) */
-const CACHE = "lineup-v1";
+const CACHE = "lineup-v5";
 const CORE = [
   "./", "./index.html", "./manifest.json",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon-180.png"
